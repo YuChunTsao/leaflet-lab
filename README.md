@@ -2,7 +2,10 @@
 
 Something about Leaflet
 
-## Layer Groups and Layers Control
+[Demo Home Pgae](https://yuchuntsao.github.io/leaflet-lab/index.html)
+
+## Demo
+* [Layer Groups and Layers Control](https://yuchuntsao.github.io/leaflet-lab/LayerGroupsAndLayerControl/index.html)
 
 ## Reference
 
